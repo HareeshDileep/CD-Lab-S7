@@ -5,7 +5,7 @@
 #include <ctype.h>
 int main()
 {
-    FILE *ptr;
+     FILE *ptr;
     int a=0, b=0, c=0, d=0, e=0;
     char ch;
     char special_char[]="<>,./?'|\"[]{})(*&^%$#@!-_=+)";
