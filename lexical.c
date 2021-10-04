@@ -2,7 +2,7 @@
 #include<ctype.h>
 #include<string.h>
 #include<stdlib.h>
-int i; 
+ int i; 
 char keyword(char buf[])
 {
     char key[5][10]={"main","void","int","char","return"};
